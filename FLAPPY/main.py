@@ -10,7 +10,7 @@ h = 650
 sc = 0
 
 screen = p.display.set_mode((w, h))
-p.display.set_caption('Flappy Bird by 51, 46, 24')
+p.display.set_caption('Flappy Bird by SuheelPeerzada')
 
 back = p.image.load('FLAPPY\\assets\\flback.jpg').convert_alpha()
 bird = p.image.load('FLAPPY\\assets\\flb1.png').convert_alpha()
